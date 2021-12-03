@@ -57,18 +57,13 @@ with open (file_to_save,"w") as txt_file:
         f'...............................................\n')
     print(election_results,end="")
     # Save the final vote count to the text file.
-
-    print(election_results)
-
     txt_file.write(election_results)   
 
     for candidate_name in candidates_votes:
         votes = candidates_votes[candidate_name]
         votes_percentage = float(votes)/float (total_votes)*100
-        candidate_results=(f'{candidate_name}:received {votes_percentage:.1f}% of the votes\n')
        #print(f'{candidate_name}:received {votes_percentage:.1f}% of the votes')
-        print(candidate_results)
-        txt_file.write(candidate_results)
+
         if(votes> winning_count and votes_percentage>winning_percentage):
             winning_count=votes
             winning_percentage=votes_percentage
