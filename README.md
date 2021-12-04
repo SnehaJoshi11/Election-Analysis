@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Election-Analysis
 ## Project Analysis
 
@@ -50,5 +48,6 @@ The analysis of the election shows that:
 <p align="center">
 	<img src="Resources/ElectionResults.png" width="200">
 </p>
+
 ## Election-Audit Summary        
->>>>>>> a5007d755484c9fdb4e6f7fcf13ce4a2730b8627
+
