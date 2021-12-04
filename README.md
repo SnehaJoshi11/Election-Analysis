@@ -42,7 +42,7 @@ The analysis of the election shows that:
         -Denver produced 82.8% of voters, for a total of 306,055 voters.
         -Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
 
--The county with the largest voter turnout was:
+    -The county with the largest voter turnout was:
         -Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 
