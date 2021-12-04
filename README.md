@@ -16,10 +16,11 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 **Data Source:** election_results.csv
 **Software:** Python 3.9.1, Visual Studio Code 1.52.1
-<p>
+
 
 ## Summary
-    -The analysis of the election shows that:
+    
+    The analysis of the election shows that:
 
      -There were 369,711 votes cast in the election.
 
@@ -42,8 +43,6 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 -The county with the largest voter turnout was:
         -Denver, which produced 82.8% of voters, for a total of 306,055 voters.
-</p>
 
-<p>
+
 Election-Audit Summary        
-</p>
