@@ -16,7 +16,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 **Data Source:** election_results.csv
 
-**Software:** Python 3.9.1, Visual Studio Code 1.52.1
+**Software:** Python 3.9.9, Visual Studio Code 1.62.3
 
 
 ## Summary
@@ -46,4 +46,4 @@ The analysis of the election shows that:
     - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 
-#Election-Audit Summary        
+## Election-Audit Summary        
