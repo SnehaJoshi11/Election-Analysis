@@ -1,5 +1,5 @@
 # Election-Analysis
-## Project Analysis
+## Project Overview
 
 A Colorado Board of Elections employee assigned the following tasks to complete the election audit of a recent local congressional election.
 
@@ -50,14 +50,9 @@ The analysis of the election shows that:
 </p>
 
 ## Election-Audit Summary        
-
-Overview of Election Audit: Explain the purpose of this election audit analysis.
-
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+1.In the election analysis, you will be performing mathematical calculations as well as getting non-mathematical data from a file. 
+2.Like lists, tuples can be used to store data; however, you can only retrieve data from tuples. 
+3.how to retrieve data based on whether a condition is true or false. Retrieving data based on a condition is known as a decision statement. Decision statements are widely used by programmers because they often need to retrieve data from a large dataset that meets certain criteria.
+4.The data consists of a number for the ballot ID and a name for the county and candidate, respectively. 
+5.Using the election data, you will need to determine the total number of votes cast in the election. Using the code from the previous day, Tom will show you how to programmatically count up all the votes cast in the election by amending the code below the for loop.
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
