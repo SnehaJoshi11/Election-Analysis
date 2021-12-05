@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
 # Election-Analysis
-## Project Analysis
+## Project Overview
 
 A Colorado Board of Elections employee assigned the following tasks to complete the election audit of a recent local congressional election.
 
@@ -48,7 +46,13 @@ The analysis of the election shows that:
     - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 <p align="center">
-	<img src="Resources/ElectionResults.png" width="200">
+	<img src="Resources/Election_Results.png" width="200">
 </p>
+
 ## Election-Audit Summary        
->>>>>>> a5007d755484c9fdb4e6f7fcf13ce4a2730b8627
+1.In the election analysis, you will be performing mathematical calculations as well as getting non-mathematical data from a file. 
+2.Like lists, tuples can be used to store data; however, you can only retrieve data from tuples. 
+3.how to retrieve data based on whether a condition is true or false. Retrieving data based on a condition is known as a decision statement. Decision statements are widely used by programmers because they often need to retrieve data from a large dataset that meets certain criteria.
+4.The data consists of a number for the ballot ID and a name for the county and candidate, respectively. 
+5.Using the election data, you will need to determine the total number of votes cast in the election. Using the code from the previous day, Tom will show you how to programmatically count up all the votes cast in the election by amending the code below the for loop.
+Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
