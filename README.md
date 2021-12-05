@@ -51,7 +51,7 @@ The analysis of the election shows that:
 
 ## Election-Audit Summary 
 
-This script can be modified to find out popularity of candidates in respective county with thier high and low voets with percentage.
+This script can be modified to find out popularity of candidates in respective county with thier high and low votes with percentage.
 
 Also it can be useful for any other elections like fedral elections by changing the countys to the states.
 
