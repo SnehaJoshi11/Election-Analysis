@@ -20,7 +20,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 
 ## Summary
-    
+<p>    
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 
@@ -44,19 +44,21 @@ The analysis of the election shows that:
 
 - The county with the largest voter turnout was:
     - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+</p>
 
 <p align="center">
 	<img src="Resources/Election_Results.png" width="200">
 </p>
-
+<p>
 ## Election-Audit Summary 
 
-This script can be modified to find out popularity of candidates in respective county with thier high and low votes with percentage.
+- This script can be modified to find out popularity of candidates in respective county with thier high and low votes with percentage.
 
-Also it can be useful for any other elections like fedral elections by changing the countys to the states.
+- Also it can be useful for any other elections like fedral elections by changing the countys to the states.
 
-At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valueableto the board.
+- At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valueable to the board.
 
-Also we can analyse the different dataset by using other CSV files and variables can be modified according to the new dataset data
+- Also we can analyse the different dataset by using other CSV files and variables can be modified according to the new dataset.
+</p>
 
 
