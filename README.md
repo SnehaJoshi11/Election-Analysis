@@ -47,7 +47,7 @@ The analysis of the election shows that:
 </p>
 
 <p align="left">
-	<img src="Resources/Election_Results.png" width="200">
+	<img src="Resources/Election_Results.png" width="400">
 </p>
 
 <p>
