@@ -46,7 +46,7 @@ The analysis of the election shows that:
     - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 </p>
 
-<p align="center">
+<p align="left">
 	<img src="Resources/Election_Results.png" width="200">
 </p>
 
