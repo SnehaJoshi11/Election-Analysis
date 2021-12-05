@@ -49,10 +49,14 @@ The analysis of the election shows that:
 	<img src="Resources/Election_Results.png" width="200">
 </p>
 
-## Election-Audit Summary        
-1.In the election analysis, you will be performing mathematical calculations as well as getting non-mathematical data from a file. 
-2.Like lists, tuples can be used to store data; however, you can only retrieve data from tuples. 
-3.how to retrieve data based on whether a condition is true or false. Retrieving data based on a condition is known as a decision statement. Decision statements are widely used by programmers because they often need to retrieve data from a large dataset that meets certain criteria.
-4.The data consists of a number for the ballot ID and a name for the county and candidate, respectively. 
-5.Using the election data, you will need to determine the total number of votes cast in the election. Using the code from the previous day, Tom will show you how to programmatically count up all the votes cast in the election by amending the code below the for loop.
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Election-Audit Summary 
+
+This script can be modified to find out popularity of candidates in respective county with thier high and low voets with percentage.
+
+Also it can be useful for any other elections like fedral elections by changing the countys to the states.
+
+At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valueableto the board.
+
+Also we can analyse the different dataset by using other CSV files and variables can be modified according to the new dataset data
+
+
