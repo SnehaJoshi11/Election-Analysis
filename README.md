@@ -49,7 +49,9 @@ The analysis of the election shows that:
 <p align="center">
 	<img src="Resources/Election_Results.png" width="200">
 </p>
+
 <p>
+	
 ## Election-Audit Summary 
 
 - This script can be modified to find out popularity of candidates in respective county with thier high and low votes with percentage.
