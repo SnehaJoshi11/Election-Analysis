@@ -10,7 +10,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 5. Determine the winner of the election based on popular vote.
 6. Calculate the voter turnout for each county.
 7. Calculate the percentage of votes from each county out of the total.
-8. Determine the county with the highest turnout..
+8. Determine the county with the highest turnout.
 
 ## Resources
 
@@ -30,7 +30,7 @@ The analysis of the election shows that:
     - Raymon Anthony Doane
 
 - The candidate results were:
-    - Charles Casper Stockham received 23.0% of the vote, for a total of  85,213 votes.
+    - Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
     - Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
     - Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
 
@@ -54,13 +54,18 @@ The analysis of the election shows that:
 	
 ## Election-Audit Summary 
 
-- This script can be modified to find out popularity of candidates in respective county with thier high and low votes with percentage.
+- This script can be modified to find out popularity of candidates in respective county with their high and low votes with percentage.
 
-- Also it can be useful for any other elections like fedral elections by changing the countys to the states.
+- Also, if we have population data of each county, we can find out how many votes show off.
 
-- At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valueable to the board.
+- We can calculate mean, median and mode with respect to candidates votes and find out the who is the winner candidate for that specific county.
 
-- Also we can analyse the different dataset by using other CSV files and variables can be modified according to the new dataset.
+- Also, it can be useful for any other elections like federal elections by changing the counties to the states.
+
+- At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valuable to the board.
+
+- Also, we can analyze the different dataset by using other CSV files and variables can be modified according to the new dataset.
+
 </p>
 
 
