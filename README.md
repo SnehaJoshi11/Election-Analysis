@@ -62,7 +62,7 @@ The analysis of the election shows that:
 
 - Also, it can be useful for any other elections like federal elections by changing the counties to the states.
 
-- At the end of the time no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valuable to the board.
+- Towards end no matter the number of candidates or counties, the script will used to perform the Election Audit and can be valuable to the board.
 
 - Also, we can analyze the different dataset by using other CSV files and variables can be modified according to the new dataset.
 
